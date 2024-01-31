@@ -11,3 +11,5 @@ AUTHOR: MEENU SRI
 4.Status setting code
 
 5.Attachments [Image, Audio, Video] code
+
+6.New functionality of Hiding Last seen
